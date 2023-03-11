@@ -198,7 +198,7 @@ FROM
         Monthly_Charge > 70.05 
         AND Customer_Status = 'Stayed'
         AND Number_of_Referrals > 0
-        AND Tenure_in_Months > 6
+        AND Tenure_in_Months > 9
     GROUP BY 
         Customer_ID
     HAVING 

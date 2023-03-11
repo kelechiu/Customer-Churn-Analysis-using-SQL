@@ -1,6 +1,6 @@
 -- Why are customers leaving Maven Telecom?
 
--- DATA CLEANING AND PREP
+-- Total Number of customers
 SELECT
 COUNT(DISTINCT Customer_ID) AS customer_count
 FROM
@@ -90,7 +90,7 @@ ORDER BY
   Churn_Percentage DESC;
 
 
--- What service did they use?
+-- What service did churned customers use?
 SELECT 
     Internet_Type,
     COUNT(Customer_ID) AS Churned,

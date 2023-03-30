@@ -31,7 +31,7 @@ The main steps for this project are:
 
 ## Customer Retention Strategies
 
-- ### Loyalty Programs ###: Since the top reason for churn is ‘competitors making better offers’ , and more than half of churned customers did not have any promotional offers, Maven could implement different loyalty programs to retain their customers. For instance, they could reward customers on long-term contracts with discounted rates, free upgrade, or additional features. 
+- Loyalty Programs: Since the top reason for churn is ‘competitors making better offers’ , and more than half of churned customers did not have any promotional offers, Maven could implement different loyalty programs to retain their customers. For instance, they could reward customers on long-term contracts with discounted rates, free upgrade, or additional features. 
 - Improve Customer Support: Invest in training and development of support staff to ensure they provide excellent customer service. This could include regular coaching and feedback sessions, as well as incentives for staff who receive positive customer feedback.
 - Make better devices: Evaluate the features, performance and pricing of your devices to ensure they are in line with market standards and demand.
 - Premium Tech Support: Since customers who did not have access to premium tech support were more likely to churn, Maven should consider offering this service to all customers.
@@ -39,4 +39,9 @@ The main steps for this project are:
 - Engage High-Value Customers: Prioritise engaging these customers to prevent them from leaving. Provide personalised offers, send targeted communications, and provide premium tech support to ensure these customers remain satisfied with their service.
 - After-Sales Service: Schedule regular check-ins with customers to ensure they are still satisfied with their service. These check-ins could be in the form of surveys, phone calls, or email communications.
 
-## Please read my medium article for the full analytics report https://medium.com/@kelechiuzoukwu/customer-churn-analysis-using-sql-6d76aea42c88
+#### Click the medium link below for the full analytics report 
+
+##### Medium article: https://medium.com/@kelechiuzoukwu/customer-churn-analysis-using-sql-6d76aea42c88
+##### Portfolio: https://www.kelechiuzoukwu.com/
+##### Tableau dashboard: https://public.tableau.com/app/profile/kelechi.uzoukwu/viz/TelcoChurn_16708698866470/othermaindash4
+##### Linkedin: https://www.linkedin.com/in/kelechi-uzoukwu/
